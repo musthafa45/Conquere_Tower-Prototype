@@ -1,2 +1,2 @@
 # Total_Conquere-Prototype
-Prototype Inspired from total Conquerer (May/2023)
+Prototype Inspired from Conquerer Tower (May/2023)
